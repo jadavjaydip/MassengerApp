@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4B34DA6-480B-4A48-8627-E72759BD10DF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1241531F-016F-4216-B162-0A030E5709F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MassengerApp/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "onGooglSignIn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1241531F-016F-4216-B162-0A030E5709F5 - 68a936c97b0a3de1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MassengerApp.LoginViewController.onGooglSignIn(__C.UIButton) -&gt; ()"
+                  moduleName = "MassengerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j/Desktop/MassengerApp/MassengerApp/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1241531F-016F-4216-B162-0A030E5709F5 - 68a936c97b0a3ce9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MassengerApp.LoginViewController.onGooglSignIn(__C.UIButton) -&gt; ()"
+                  moduleName = "MassengerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j/Desktop/MassengerApp/MassengerApp/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
